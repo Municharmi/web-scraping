@@ -40,34 +40,34 @@ Edit
 ```bash
 git clone https://github.com/your-username/web-scraping-project.git
 cd web-scraping-project
-2️⃣ Install Dependencies
+### **2️⃣ Install Dependencies**
 bash
 Copy
 Edit
 pip install -r requirements.txt
-3️⃣ Run the Web Scraper
+### **3️⃣ Run the Web Scraper**
 bash
 Copy
 Edit
 python scraper.py
 After running, the extracted data will be saved in output.csv.
 
-📊 Sample Output
+### **📊 Sample Output**
 Title	Price	Rating
 The Grand Design	$13.76	5⭐
 A Light in the Attic	$51.77	3⭐
-📝 Future Improvements
+### **📝 Future Improvements**
 ✅ Add support for more websites
 ✅ Store data in a database
 ✅ Implement a GUI for non-technical users
-🛑 License
+### **🛑 License**
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-📩 Contact
+### **📩 Contact**
 For any inquiries, feel free to reach out:
 📧 Email: charmithaniganti0106@email.com
 🔗 LinkedIn: www.linkedin.com/in/muni-charmi
 🔗 GitHub: https://github.com/Municharmi
 
-⭐ Contributions
+### **⭐ Contributions**
 Pull requests are welcome! If you have ideas to improve the scraper, feel free to contribute.
