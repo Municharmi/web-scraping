@@ -18,7 +18,7 @@ To clone the repository, open your terminal or command prompt and run the follow
 git clone https://github.com/your-username/web-scraping-project.git
 cd web-scraping-project
 
-### 2️⃣ Install Dependencies
+### **2️⃣ Install Dependencies**
 To install the required dependencies, use the following command:
 
 ```bash
